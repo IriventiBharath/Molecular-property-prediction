@@ -1,0 +1,12 @@
+--- PEFT Methods Comparison ---
+Pre-trained model baseline - RMSE: 0.7024, R²: 0.6419
+Standard FT improvement - RMSE: 0.0408 (5.8%), R²: 0.0404 (6.3%)
+LoRA improvement     - RMSE: 0.0413 (5.9%), R²: 0.0409 (6.4%)
+BitFit improvement   - RMSE: 0.0946 (13.5%), R²: 0.0900 (14.0%)
+iA3 improvement      - RMSE: 0.0460 (6.5%), R²: 0.0453 (7.1%)
+
+--- Trainable Parameters ---
+Standard FT: 44,375,809 parameters
+LoRA:        1,474,560 parameters
+BitFit:      74,497 parameters
+iA3:         27,648 parameters

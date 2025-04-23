@@ -1,0 +1,1 @@
+There is one folder for each task. Each folder contains all the notebooks and Python scripts associated with the task, along with another folder named "plots" that contains the respective plots. The report is named NNTI_Project_team_100.pdf. The LaTeX code is included in the report zip file.
